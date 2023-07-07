@@ -1,2 +1,2 @@
-This project page is based on the [Academic Project Page Template](https://github.com/eliahuhorwitz/Academic-project-page-template). 
+This project page is created from the [Academic Project Page Template](https://github.com/eliahuhorwitz/Academic-project-page-template). 
 
